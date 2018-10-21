@@ -1,0 +1,3 @@
+[submodule "KPCore"]
+	path = KPCore
+	url = https://github.com/barronds/KPCore.git
